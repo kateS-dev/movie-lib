@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/I/51oDgBvCRIL._AC_.jpg",
+    "overview": "A thief who steals corporate secrets through dream-sharing technology is tasked with planting an idea into the mind of a CEO."
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "rating": 9.0,
+    "poster": "https://m.media-amazon.com/images/I/51k0qa6qVnL._AC_.jpg",
+    "overview": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos."
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/I/81k8XbvuELL._AC_SL1500_.jpg",
+    "overview": "A team of explorers travel through a wormhole in space to ensure humanity's survival."
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "year": 1999,
+    "rating": 8.7,
+    "poster": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
+    "overview": "A hacker discovers the truth about his reality and his role in the war against its controllers."
+  },
+  {
+    "id": 5,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "rating": 8.4,
+    "poster": "https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SL1500_.jpg",
+    "overview": "The Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+  },
+  {
+    "id": 6,
+    "title": "Parasite",
+    "year": 2019,
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SL1024_.jpg",
+    "overview": "Greed and class discrimination threaten the relationship between two families."
+  },
+  {
+    "id": 7,
+    "title": "Spirited Away",
+    "year": 2001,
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/I/81l3rZK4lnL._AC_SL1500_.jpg",
+    "overview": "A young girl enters a world of spirits and must find a way to free herself and her parents."
+  },
+  {
+    "id": 8,
+    "title": "Fight Club",
+    "year": 1999,
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/I/81D+KJkO0wL._AC_SL1500_.jpg",
+    "overview": "An insomniac and a soap maker form an underground fight club that evolves into something bigger."
+  }
+]
